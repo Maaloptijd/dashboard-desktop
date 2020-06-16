@@ -1,2 +1,2 @@
-# dashboard-desktop
+# desktop
 Desktop binaries for Maaloptijd
